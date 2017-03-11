@@ -1,5 +1,8 @@
 _repo: Persuasion_105
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: epub/cover.jpeg
 creator:
   author:
     agent_name: Austen, Jane
@@ -31,6 +34,8 @@ description: "Persuasion is Jane Austen's last completed novel, published posthu
   \ volume and published together, but also because both stories are set partly in\
   \ Bath, a fashionable city with which Austen was well acquainted, having lived there\
   \ from 1801 to 1805.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/105#Persuasion
 gutenberg_issued: '1994-02-01'
 gutenberg_type: Text
 identifiers:
