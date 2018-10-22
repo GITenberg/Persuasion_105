@@ -11,6 +11,7 @@ Title: Persuasion
 Author: Jane Austen
 
 Release Date: June 5, 2008 [EBook #105]
+Last Updated: February 15, 2015
 
 Language: English
 
@@ -223,7 +224,7 @@ fortune in the line marked out for the heir of the house of Elliot, he
 had purchased independence by uniting himself to a rich woman of
 inferior birth.
 
-Sir Walter has resented it.  As the head of the house, he felt that he
+Sir Walter had resented it.  As the head of the house, he felt that he
 ought to have been consulted, especially after taking the young man so
 publicly by the hand; "For they must have been seen together," he
 observed, "once at Tattersall's, and twice in the lobby of the House of
@@ -1228,7 +1229,7 @@ be, and who will be there; and it is so very uncomfortable not having a
 carriage of one's own.  Mr and Mrs Musgrove took me, and we were so
 crowded!  They are both so very large, and take up so much room; and Mr
 Musgrove always sits forward.  So, there was I, crowded into the back
-seat with Henrietta and Louise; and I think it very likely that my
+seat with Henrietta and Louisa; and I think it very likely that my
 illness to-day may be owing to it."
 
 A little further perseverance in patience and forced cheerfulness on
@@ -1289,7 +1290,7 @@ so little herself with either of her sisters.
 They were received with great cordiality.  Nothing seemed amiss on the
 side of the Great House family, which was generally, as Anne very well
 knew, the least to blame.  The half hour was chatted away pleasantly
-enough; and she was not at all surprised at the end of it, to have
+enough; and she was not at all surprised, at the end of it, to have
 their walking party joined by both the Miss Musgroves, at Mary's
 particular invitation.
 
@@ -1474,7 +1475,7 @@ their sakes, than mortification for her own.
 The party at the Great House was sometimes increased by other company.
 The neighbourhood was not large, but the Musgroves were visited by
 everybody, and had more dinner-parties, and more callers, more visitors
-by invitation and by chance, than any other family.  There were more
+by invitation and by chance, than any other family.  They were more
 completely popular.
 
 The girls were wild for dancing; and the evenings ended, occasionally,
@@ -2503,7 +2504,7 @@ wife.  With regard to Charles Hayter, she had delicacy which must be
 pained by any lightness of conduct in a well-meaning young woman, and a
 heart to sympathize in any of the sufferings it occasioned; but if
 Henrietta found herself mistaken in the nature of her feelings, the
-alternation could not be understood too soon.
+alteration could not be understood too soon.
 
 Charles Hayter had met with much to disquiet and mortify him in his
 cousin's behaviour.  She had too old a regard for him to be so wholly
@@ -2757,7 +2758,7 @@ they gained the summit of the most considerable hill, which parted
 Uppercross and Winthrop, and soon commanded a full view of the latter,
 at the foot of the hill on the other side.
 
-Winthrop, without beauty and without dignity, was stretched before them
+Winthrop, without beauty and without dignity, was stretched before them;
 an indifferent house, standing low, and hemmed in by the barns and
 buildings of a farm-yard.
 
@@ -3501,7 +3502,7 @@ on Anne.
 Breakfast had not been long over, when they were joined by Captain and
 Mrs Harville and Captain Benwick; with whom they had appointed to take
 their last walk about Lyme.  They ought to be setting off for
-Uppercross by one, and in the mean while were to be all together, and
+Uppercross by one, and in the meanwhile were to be all together, and
 out of doors as long as they could.
 
 Anne found Captain Benwick getting near her, as soon as they were all
@@ -3817,7 +3818,7 @@ Louisa with a zeal above the common claims of regard, for his sake; and
 she hoped he would not long be so unjust as to suppose she would shrink
 unnecessarily from the office of a friend.
 
-In the mean while she was in the carriage.  He had handed them both in,
+In the meanwhile she was in the carriage.  He had handed them both in,
 and placed himself between them; and in this manner, under these
 circumstances, full of astonishment and emotion to Anne, she quitted
 Lyme.  How the long stage would pass; how it was to affect their
@@ -4185,7 +4186,7 @@ and there were a great many more people to look at in the church at
 Lyme than at Uppercross; and all this, joined to the sense of being so
 very useful, had made really an agreeable fortnight.
 
-Anne enquired after Captain Benwick, Mary's face was clouded directly.
+Anne enquired after Captain Benwick. Mary's face was clouded directly.
 Charles laughed.
 
 "Oh! Captain Benwick is very well, I believe, but he is a very odd
@@ -4204,7 +4205,7 @@ really was.  It was all your doing," (turning to Anne.) "He fancied
 that if he went with us, he should find you close by: he fancied
 everybody to be living in Uppercross; and when he discovered that Lady
 Russell lived three miles off, his heart failed him, and he had not
-courage to come.  That is the fact, upon my honour, Mary knows it is."
+courage to come.  That is the fact, upon my honour. Mary knows it is."
 
 But Mary did not give into it very graciously, whether from not
 considering Captain Benwick entitled by birth and situation to be in
@@ -4273,7 +4274,7 @@ day long."
 
 "Yes, that he will!" exclaimed Mary, tauntingly.  "He will sit poring
 over his book, and not know when a person speaks to him, or when one
-drop's one's scissors, or anything that happens.  Do you think Lady
+drops one's scissors, or anything that happens.  Do you think Lady
 Russell would like that?"
 
 Lady Russell could not help laughing.  "Upon my word," said she, "I
@@ -5530,7 +5531,7 @@ do you like Bath, Miss Elliot?  It suits us very well.  We are always
 meeting with some old friend or other; the streets full of them every
 morning; sure to have plenty of chat; and then we get away from them
 all, and shut ourselves in our lodgings, and draw in our chairs, and
-are snug as if we were at Kellynch, ay, or as we used to be even at
+are as snug as if we were at Kellynch, ay, or as we used to be even at
 North Yarmouth and Deal.  We do not like our lodgings here the worse, I
 can tell you, for putting us in mind of those we first had at North
 Yarmouth.  The wind blows through one of the cupboards just in the same
@@ -6392,7 +6393,7 @@ hesitate to employ me."
 Mrs Smith gave her a penetrating glance, and then, smiling, said--
 
 "I have been a little premature, I perceive; I beg your pardon.  I
-ought to have waited for official information,  But now, my dear Miss
+ought to have waited for official information.  But now, my dear Miss
 Elliot, as an old friend, do give me a hint as to when I may speak.
 Next week?  To be sure by next week I may be allowed to think it all
 settled, and build my own selfish schemes on Mr Elliot's good fortune."
@@ -7013,7 +7014,7 @@ hard-hearted sister, Miss Anne, seems bent on cruelty."
 be soon overcome by a gentleman's hints.  However, when I found how
 excessively he was regretting that he should miss my father this
 morning, I gave way immediately, for I would never really omit an
-opportunity of bring him and Sir Walter together.  They appear to so
+opportunity of bringing him and Sir Walter together.  They appear to so
 much advantage in company with each other.  Each behaving so
 pleasantly.  Mr Elliot looking up with so much respect."
 
@@ -7334,7 +7335,7 @@ visitors, as if they believed themselves quite in the secret.  It was
 evident that the report concerning her had spread, and a short pause
 succeeded, which seemed to ensure that it would now spread farther.
 
-"Do come, Anne" cried Mary, "come and look yourself.  You will be too
+"Do come, Anne," cried Mary, "come and look yourself.  You will be too
 late if you do not make haste.  They are parting; they are shaking
 hands.  He is turning away.  Not know Mr Elliot, indeed!  You seem to
 have forgot all about Lyme."
